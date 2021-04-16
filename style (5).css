@@ -1,0 +1,109 @@
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 50px;
+    background: #ffffff;
+    height: 20px;
+}
+
+
+.logo {
+	width: 200px;
+}
+
+.link {
+    justify-content: space-around;
+    width: 50%;
+    text-decoration: none;
+    margin: 10px;
+    font: Open Sans;
+	font: bold;
+}
+
+.contenant {
+	background-image: url(https://trustmyscience.com/wp-content/uploads/2017/01/totalit%C3%A9-univers-observable-titre.jpg);
+  	background-size: cover; 
+  	height: 120vh;
+  	
+  }
+
+.titre {
+    margin:0;
+    padding-top: 10%;
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
+
+.slogan {
+    font-size: 45px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+}
+
+.societe {
+	background-color: #444141;
+	margin: 0px;
+	padding: 20px;
+	text-align: left;
+}
+
+.societe2 {
+color: white;
+text-align: center;
+}
+
+.para {
+	margin: 70px;
+	color: white;
+}
+
+#voyages {
+	display: flex;
+	justify-content: space-around;
+	padding: 50px;
+	text-align: center;
+}
+
+.image1 {
+	width: 350px;
+}
+
+.image2 {
+	width: 350px;
+}
+
+.image3 {
+	width: 350px;
+}
+
+#flotte {
+	display: flex;
+	justify-content: space-around;
+	padding: 50px;
+	text-align: center;
+	background-color: #000000;
+}
+
+#flotte2 {
+	display: flex;
+	justify-content: space-around;
+	padding: 50px;
+	text-align: center;
+	background-color: #000000;
+}
+
+img {
+	width: 100px;
+}
+
+.flotte3{
+	color: #ffffff;
+}
